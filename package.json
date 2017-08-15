@@ -1,0 +1,9 @@
+{
+  "name": "webpack_express",
+  "version": "0.0.1",
+  "dependencies": {},
+  "devDependencies": {
+    "express": "^4.15.4",
+    "webpack": "^3.5.4"
+  }
+}
